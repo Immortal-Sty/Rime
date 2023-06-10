@@ -1,0 +1,22 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Jun 10 00:44:21 2023"
+  rime_version: 1.8.5
+patch:
+  "ascii_composer/switch_key":
+    Caps_Lock: noop
+    Shift_L: clear
+    Shift_R: commit_code
+  "key_binder/bindings/+":
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Control+j", send: Down, when: has_menu}
+    - {accept: "Control+k", send: Up, when: has_menu}
+  "menu/page_size": 9
+  schema_list:
+    - {schema: tiger}
+    - {schema: PY_c}
+  "switcher/hotkeys":
+    - "Control+F4"

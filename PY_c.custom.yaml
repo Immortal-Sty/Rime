@@ -1,0 +1,12 @@
+patch:
+  # 默认为英文
+  "switches/@0/reset": 1
+  # 最大候选项
+  "menu/page_size": 8
+
+  "key_binder/bindings/+":
+    # 标点换页
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
+    # 切换至虎码
+    - { when: always, accept: Control+Shift+F1, select: tiger }

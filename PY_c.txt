@@ -1,0 +1,12 @@
+# Rime table
+#@/db_name	PY_c
+#@/db_type	tabledb
+#@/rime_version	1.8.5
+#@/tick	6
+啊	a	1
+重码率	chong ma lv	1
+的样子	de yang zi	1
+很高	hen gao	1
+拼音的	pin yin de	1
+拼音的重码率也不是很高的样子啊	pin yin de chong ma lv ye bu shi hen gao de yang zi a	1
+也不是	ye bu shi	1
