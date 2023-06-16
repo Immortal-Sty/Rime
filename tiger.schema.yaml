@@ -16,10 +16,10 @@ schema:
 switches: # 0 默认关，1 默认开
   - name: ascii_mode
     reset: 0
-    states: [ 中文, 西文 ]  #中英文状态
+    states: [ 中, 英 ]  #中英文状态
   - name: extended_char  #自定义字集
     reset: 1
-    states: [ 全字集 , 常用字 ]
+    states: [ 全 , 常 ]
   - name: pinyin  #拼音滤镜
     reset: 0
     states: [ 拼, pīn ]
@@ -28,13 +28,13 @@ switches: # 0 默认关，1 默认开
     states: [ 🈚, 🈶 ]
   - name: chaifen
     reset: 0 
-    states: [ 拆隐, 拆显 ]
+    states: [ 拆, uti ]
   # - options: [ gb2312, gbk, utf8 ]
   #   states: [ gb2312, GBK, UTF-8 ]
   #   reset: 0
   - name: simplification  #简转繁滤镜
     reset: 0
-    states: [ 简中, 繁中 ]
+    states: [ 简, 繁 ]
   - options: [_keyboard_default, _keyboard_defaultbk, _keyboard_defaultwk]
     reset: 0
     states: [ 有刻, 半刻, 无刻 ]
