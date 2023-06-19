@@ -78,3 +78,6 @@ patch:
     - { when: has_menu, accept: period, send: Page_Down }
     # 快捷键调整
     - { accept: "Control+f", toggle: chaifen, when: composing }
+
+  # 给虎码加一个图标
+  "schema/icon": tiger_dark.ico
