@@ -1,5 +1,5 @@
 name: tigress_ci
-version: "2023.05.26"
+version: "2023.06.21"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -28242,6 +28242,16 @@ encoder:
 云辇	450	byhh
 道诡异仙	450	hsvj
 诡秘之主	450	sxri
+指鼠为鸭	450	upis
+鼠鼠我鸭	450	ppts
+鼠鼠	450	psps
+鸭鸭	450	sxsx
+磷酸铁锂	450	myzz
+三元锂	450	tmzd
+泰裤辣	450	atnx
+禁庭	450	eext
+武曌	450	fpov
+上官婉儿	450	ywbp
 女鬼	448	bnag
 上岗	448	yfvm
 居室	448	ccwy
@@ -39819,7 +39829,6 @@ encoder:
 圣职	341	rgqd
 不可否认	341	czcs
 新生活	341	ilka
-白羊座	341	ugxj
 南安	341	nmwb
 定时炸弹	341	wocb
 小海	341	yxke
@@ -39868,6 +39877,7 @@ encoder:
 白拿	341	ubjd
 痛死	341	akgv
 雏鹰	341	xbxj
+挂科	341	ugxj
 火拼	341	chuh
 木栅	341	emei
 老城	341	qlgn
@@ -46207,6 +46217,7 @@ encoder:
 孩子的	308	hhun
 什么都	308	jtqo
 在这个	308	nvjg
+白羊座	307	ugxj
 愣头青	307	hwav
 哈萨克斯坦	307	dlcg
 蓄水	307	lzks
@@ -47035,7 +47046,6 @@ encoder:
 悠着	307	jggq
 颜如玉	307	ibni
 休要	307	jevb
-挂科	307	ugxj
 破皮	307	mrrp
 二环	307	menc
 洗白	307	kqub

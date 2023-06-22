@@ -4530,9 +4530,10 @@
 噘	〔口厂䒑欠&nbsp;·&nbsp;dxhe〕
 刍	〔⺈彐&nbsp;·&nbsp;xbj&nbsp;xbjd〕
 鹂	〔一鸟&nbsp;·&nbsp;fvvx〕
+牦	〔牜毛&nbsp;·&nbsp;qvm〕
 狻	〔犭厶八夊&nbsp;·&nbsp;mkhh〕
 鲑	〔鱼土土&nbsp;·&nbsp;wggt〕
-耄	〔老毛&nbsp;·&nbsp;qvm〕
+耄	〔老毛&nbsp;·&nbsp;qvm&nbsp;qvml〕
 遛	〔田辶&nbsp;·&nbsp;bquc〕
 垠	〔土艮&nbsp;·&nbsp;gig〕
 蝮	〔虫𠂉日夊&nbsp;·&nbsp;ceoh〕
@@ -5163,7 +5164,6 @@
 槭	〔木戊⺊小&nbsp;·&nbsp;enyy〕
 靛	〔龶⺝宀疋&nbsp;·&nbsp;avwt〕
 烊	〔火羊&nbsp;·&nbsp;cgy〕
-牦	〔牜毛&nbsp;·&nbsp;qvm&nbsp;qvmn〕
 箐	〔⺮龶⺝&nbsp;·&nbsp;ravy〕
 魉	〔鬼两&nbsp;·&nbsp;aml〕
 牯	〔牜古&nbsp;·&nbsp;qcg〕
@@ -5475,6 +5475,7 @@
 硌	〔石各&nbsp;·&nbsp;msg&nbsp;msgs〕
 箅	〔⺮田丌&nbsp;·&nbsp;rqlc〕
 翀	〔羽口丨&nbsp;·&nbsp;zdgs〕
+腈	〔月龶⺝&nbsp;·&nbsp;vavy〕
 苎	〔艹宀一&nbsp;·&nbsp;lwfi〕
 鲐	〔鱼厶口&nbsp;·&nbsp;wkdk〕
 咴	〔口𠂇火&nbsp;·&nbsp;dnch〕
@@ -5482,6 +5483,7 @@
 寤	〔宀爿五口&nbsp;·&nbsp;wawd〕
 搿	〔手亼口手&nbsp;·&nbsp;ujdu&nbsp;jduu〕
 毽	〔毛聿廴&nbsp;·&nbsp;vbuy〕
+泮	〔氵丷&nbsp;·&nbsp;khus〕
 煸	〔火户&nbsp;·&nbsp;cmic〕
 秕	〔禾匕&nbsp;·&nbsp;xvvb〕
 蚍	〔虫匕&nbsp;·&nbsp;cvvb〕
@@ -5638,7 +5640,7 @@
 椁	〔木子&nbsp;·&nbsp;eghi〕
 笄	〔⺮一廾&nbsp;·&nbsp;rflc〕
 伥	〔亻长&nbsp;·&nbsp;jpc〕
-厍	〔厂车&nbsp;·&nbsp;xyc〕
+厍	〔厂车&nbsp;·&nbsp;xyc&nbsp;xycc〕
 砻	〔龙石&nbsp;·&nbsp;tms〕
 荠	〔艹齐&nbsp;·&nbsp;lqq〕
 蛘	〔虫羊&nbsp;·&nbsp;cgy&nbsp;cgyc〕
@@ -5926,7 +5928,6 @@
 蛲	〔虫一儿&nbsp;·&nbsp;cpfp〕
 蹀	〔⻊廿㇗木&nbsp;·&nbsp;plae〕
 鹾	〔⺊囗乂工&nbsp;·&nbsp;yrbu〕
-泮	〔氵丷&nbsp;·&nbsp;khus〕
 浼	〔氵&nbsp;·&nbsp;kwpe〕
 煙	〔火覀土&nbsp;·&nbsp;cvgt〕
 犸	〔犭马&nbsp;·&nbsp;mnm〕
@@ -6573,7 +6574,6 @@
 罨	〔罒大日乚&nbsp;·&nbsp;ymoa〕
 耩	〔耒一土&nbsp;·&nbsp;aqfg〕
 脬	〔月爫子&nbsp;·&nbsp;vyhi〕
-腈	〔月龶⺝&nbsp;·&nbsp;vavy〕
 腧	〔月亼⺝刂&nbsp;·&nbsp;vjvp〕
 舣	〔舟丶乂&nbsp;·&nbsp;iibi〕
 舯	〔舟口丨&nbsp;·&nbsp;idgs〕
@@ -7250,6 +7250,7 @@
 囮	〔囗亻&nbsp;·&nbsp;rjvb〕
 囯	〔囗王&nbsp;·&nbsp;rnw〕
 囷	〔囗禾&nbsp;·&nbsp;rxh〕
+圀	〔囗八方&nbsp;·&nbsp;rhlf〕
 圂	〔囗豕&nbsp;·&nbsp;rjs〕
 圌	〔囗山而&nbsp;·&nbsp;rvle〕
 圐	〔囗罒方&nbsp;·&nbsp;rylf〕
@@ -7567,7 +7568,7 @@
 惼	〔忄户&nbsp;·&nbsp;hmic〕
 愃	〔忄宀一一&nbsp;·&nbsp;hwff〕
 愊	〔忄一口田&nbsp;·&nbsp;hfdq〕
-愐	〔忄面&nbsp;·&nbsp;hbm〕
+愐	〔忄面&nbsp;·&nbsp;hbm&nbsp;hbmx〕
 愒	〔忄曰勹亾&nbsp;·&nbsp;honf〕
 愔	〔忄音&nbsp;·&nbsp;hxy〕
 愬	〔䒑月心&nbsp;·&nbsp;hsvh〕
@@ -8422,6 +8423,7 @@
 籧	〔⺮虍豕辶&nbsp;·&nbsp;rzju〕
 籰	〔⺮目目又&nbsp;·&nbsp;rqqr〕
 籹	〔米女&nbsp;·&nbsp;pbn〕
+籺	〔米𠂉乙&nbsp;·&nbsp;peai〕
 籾	〔米刀丶&nbsp;·&nbsp;ppid〕
 粃	〔米匕&nbsp;·&nbsp;pvvb〕
 粄	〔米⺁又&nbsp;·&nbsp;pxry〕
@@ -8532,6 +8534,7 @@
 艎	〔舟白王&nbsp;·&nbsp;iunw〕
 艷	〔山丰丰巴&nbsp;·&nbsp;vaam〕
 芃	〔艹几丶&nbsp;·&nbsp;loid〕
+芔	〔屮艸&nbsp;·&nbsp;slc〕
 芠	〔艹文&nbsp;·&nbsp;lvw〕
 芣	〔艹不&nbsp;·&nbsp;lcb〕
 芲	〔艹仑&nbsp;·&nbsp;ljl〕
@@ -8551,6 +8554,7 @@
 茝	〔艹&nbsp;·&nbsp;lqc〕
 茢	〔艹歹刂&nbsp;·&nbsp;lgpd〕
 茩	〔艹⺁一口&nbsp;·&nbsp;lxfd〕
+茻	〔艸艸&nbsp;·&nbsp;llc〕
 茽	〔艹亻口丨&nbsp;·&nbsp;ljdg〕
 荁	〔艹一日一&nbsp;·&nbsp;lfof〕
 荄	〔艹亥&nbsp;·&nbsp;lkh〕
@@ -8623,7 +8627,7 @@
 藊	〔艹禾户&nbsp;·&nbsp;lxmi〕
 藟	〔艹田田田&nbsp;·&nbsp;lqqq〕
 藠	〔艹白白白&nbsp;·&nbsp;luuu〕
-藥	〔艹白幺木&nbsp;·&nbsp;luie&nbsp;liye〕
+藥	〔艹白幺木&nbsp;·&nbsp;luie&nbsp;liue〕
 藦	〔艹麻手&nbsp;·&nbsp;lzus〕
 藨	〔艹鹿灬&nbsp;·&nbsp;lxch〕
 蘘	〔艹衣口一&nbsp;·&nbsp;ltdf〕
@@ -9071,6 +9075,7 @@
 𠊎	〔亻厂土土&nbsp;·&nbsp;jxgg〕
 𠍐	〔亼龴犭瓜&nbsp;·&nbsp;jkmy〕
 𠙶	〔了凵&nbsp;·&nbsp;rmk〕
+𠡦	〔千力力&nbsp;·&nbsp;lssu〕
 𠧚	〔⺊囗人&nbsp;·&nbsp;yrjr〕
 𠩃	〔屮凵厂&nbsp;·&nbsp;smxc〕
 𠬶	〔冖又&nbsp;·&nbsp;bwry〕
@@ -9081,6 +9086,7 @@
 𠳐	〔口阝&nbsp;·&nbsp;date〕
 𠵆	〔口扌日一&nbsp;·&nbsp;duof〕
 𠷡	〔一白亼口&nbsp;·&nbsp;fujd〕
+𡆠	〔囗乙&nbsp;·&nbsp;rai〕
 𡌶	〔土䒑业&nbsp;·&nbsp;ghcy〕
 𡍷	〔土忄一一&nbsp;·&nbsp;ghff〕
 𡎚	〔土戶&nbsp;·&nbsp;gmic〕
@@ -9104,6 +9110,7 @@
 𢀖	〔ス工&nbsp;·&nbsp;rug〕
 𢒉	〔彡且&nbsp;·&nbsp;efq〕
 𢖿	〔小心&nbsp;·&nbsp;yhx〕
+𢘑	〔一口丨心&nbsp;·&nbsp;fdgh〕
 𢙐	〔忄冖&nbsp;·&nbsp;hwti〕
 𢪒	〔手手&nbsp;·&nbsp;uus〕
 𢪘	〔八刀手&nbsp;·&nbsp;hpus〕
@@ -9133,6 +9140,7 @@
 𤪌	〔王糸&nbsp;·&nbsp;nzhi〕
 𤫉	〔王言火又&nbsp;·&nbsp;nscr〕
 𤭢	〔亠人人瓦&nbsp;·&nbsp;zjjr〕
+𤯔	〔一生&nbsp;·&nbsp;fls〕
 𤯥	〔女口生&nbsp;·&nbsp;bdls〕
 𤯦	〔衤刀生&nbsp;·&nbsp;tpls〕
 𤱙	〔田木一&nbsp;·&nbsp;qefi〕
@@ -11469,7 +11477,6 @@
 囸	〔囗一止&nbsp;·&nbsp;rfsi〕
 囻	〔囗民&nbsp;·&nbsp;rdm〕
 囼	〔囗厶口&nbsp;·&nbsp;rkdk〕
-圀	〔囗八方&nbsp;·&nbsp;rhlf〕
 圁	〔囗言&nbsp;·&nbsp;rsy〕
 圅	〔龴囗&nbsp;·&nbsp;krgy〕
 圇	〔囗侖&nbsp;·&nbsp;rjl〕
@@ -16384,7 +16391,6 @@
 籶	〔米几&nbsp;·&nbsp;poj〕
 籷	〔米丿七&nbsp;·&nbsp;ptrq〕
 籸	〔米⺄十&nbsp;·&nbsp;pans〕
-籺	〔米𠂉乙&nbsp;·&nbsp;peai〕
 籿	〔米寸&nbsp;·&nbsp;pkc〕
 粀	〔米一&nbsp;·&nbsp;pfbi〕
 粁	〔米千&nbsp;·&nbsp;plq〕
@@ -17205,7 +17211,6 @@
 芌	〔艹二ㄅ&nbsp;·&nbsp;lmae〕
 芐	〔艹一卜&nbsp;·&nbsp;lfyb〕
 芓	〔艹子&nbsp;·&nbsp;lhi〕
-芔	〔屮艸&nbsp;·&nbsp;slc〕
 芕	〔艹夕&nbsp;·&nbsp;llx〕
 芖	〔艹大&nbsp;·&nbsp;lmd〕
 芚	〔艹一&nbsp;·&nbsp;lfsc〕
@@ -17259,7 +17264,6 @@
 茮	〔艹⺊一小&nbsp;·&nbsp;lyfy〕
 茰	〔艹日&nbsp;·&nbsp;lobi〕
 茷	〔艹亻戈&nbsp;·&nbsp;ljpg〕
-茻	〔艸艸&nbsp;·&nbsp;llc〕
 茾	〔艹一廾&nbsp;·&nbsp;lflc〕
 茿	〔艹工几丶&nbsp;·&nbsp;luoi〕
 荂	〔艹大二ㄅ&nbsp;·&nbsp;lmma〕
@@ -30254,7 +30258,6 @@
 𠡣	〔一日力&nbsp;·&nbsp;fobs〕
 𠡤	〔力&nbsp;·&nbsp;bosl〕
 𠡥	〔力&nbsp;·&nbsp;sthb〕
-𠡦	〔千力力&nbsp;·&nbsp;lssu〕
 𠡧	〔文口力&nbsp;·&nbsp;vdsl〕
 𠡨	〔尸毛力&nbsp;·&nbsp;cvsl〕
 𠡩	〔禾刂力&nbsp;·&nbsp;xpsl〕
@@ -32604,7 +32607,6 @@
 𡆝	〔口言糹人&nbsp;·&nbsp;dsij〕
 𡆞	〔口鬥斤&nbsp;·&nbsp;djct〕
 𡆟	〔口豸艮齒&nbsp;·&nbsp;dmil〕
-𡆠	〔囗乙&nbsp;·&nbsp;rai〕
 𡆡	〔囗乁&nbsp;·&nbsp;rae〕
 𡆢	〔囗乛&nbsp;·&nbsp;rae〕
 𡆣	〔囗入&nbsp;·&nbsp;rju〕
@@ -35984,7 +35986,7 @@
 𡻨	〔山衣儿口&nbsp;·&nbsp;vtpd〕
 𡻩	〔山曰罒又&nbsp;·&nbsp;voyr〕
 𡻪	〔山羽人彡&nbsp;·&nbsp;vzje〕
-𡻫	〔囗卜口口&nbsp;·&nbsp;rydd〕
+𡻫	〔山口口&nbsp;·&nbsp;vgdd〕
 𡻬	〔山方𠂉矢&nbsp;·&nbsp;vleo〕
 𡻭	〔山田糸&nbsp;·&nbsp;vqis〕
 𡻮	〔山戶口巴&nbsp;·&nbsp;vmdm〕
@@ -37811,7 +37813,6 @@
 𢘎	〔忄尸又&nbsp;·&nbsp;hcry〕
 𢘏	〔忄山乃&nbsp;·&nbsp;hvvn〕
 𢘐	〔忄人工&nbsp;·&nbsp;hjug〕
-𢘑	〔一口丨心&nbsp;·&nbsp;fdgh〕
 𢘒	〔尸心&nbsp;·&nbsp;cvhx〕
 𢘓	〔母心&nbsp;·&nbsp;khx〕
 𢘔	〔亼忄⺋&nbsp;·&nbsp;jhzj〕
@@ -47448,7 +47449,6 @@
 𤯑	〔㇗禾&nbsp;·&nbsp;zhax〕
 𤯒	〔士殳甘&nbsp;·&nbsp;gcrz〕
 𤯓	〔屮二&nbsp;·&nbsp;sme〕
-𤯔	〔一生&nbsp;·&nbsp;fls〕
 𤯖	〔ㄥ人生&nbsp;·&nbsp;ajls〕
 𤯗	〔大生&nbsp;·&nbsp;mls〕
 𤯘	〔生斗&nbsp;·&nbsp;ljd〕

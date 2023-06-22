@@ -36,6 +36,12 @@ local function exe(key, env)
   elseif (context.input == "/genda" or context.input == "/gfda" or context.input == "/piua" or context.input == "/muyi" or context.input == "/emon" ) then
     generic_open("https://typer.owenyang.top")
     context:clear()
+  elseif (context.input == "/zitong" or context.input == "/zits" or context.input == "whib") then
+    generic_open("https://zi.tools")
+    context:clear()
+  elseif (context.input == "/yedian" or context.input == "/yedm" or context.input == "dnih") then
+    generic_open("http://www.yedict.com")
+    context:clear()
   end
   return kNoop
 end
