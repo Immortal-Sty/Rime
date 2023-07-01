@@ -1,5 +1,5 @@
 name: tigress_simp_ci
-version: "2023.06.21"
+version: "2023.07.01"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -2531,7 +2531,6 @@ encoder:
 零花钱	129	tlz
 大队长	129	mtp
 纪念日	129	ijo
-西游记	129	vks
 专利权	129	mxe
 托马斯	129	unz
 副局长	129	fcp
@@ -2850,6 +2849,13 @@ encoder:
 敕勒歌	117	xtz
 三元锂	117	tmz
 泰裤辣	117	atn
+金敏喜	117	zeh
+文咏珊	117	vdn
+蒸虾头	117	lcw
+下头男	117	fwq
+虾头男	117	cwq
+虾头女	117	cwb
+小红薯	117	yil
 地下水	117	gfk
 运动鞋	117	bbt
 适合于	117	ajf
@@ -3646,7 +3652,6 @@ encoder:
 总司令	96	haj
 象牙塔	96	wlg
 山海经	96	vki
-怨不得	96	lcw
 美少年	96	gye
 心底里	96	hxd
 挑战者	96	uyq
