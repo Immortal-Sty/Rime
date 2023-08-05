@@ -79,6 +79,8 @@ patch:
     - { when: has_menu, accept: period, send: Page_Down }
     # 快捷键调整
     - { accept: "Control+f", toggle: chaifen, when: composing }
+    # 有候选时空格上屏首选
+    - { accept: space, send: space, when: has_menu }
     # 无候选(空码）时空格清屏编码
     - { accept: space, send: Escape, when: composing }
 
