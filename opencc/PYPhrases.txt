@@ -39,7 +39,7 @@
 凫茈	fúcí
 富实	fùshi
 富态	fùtai
-咖喱	gālí	
+咖喱	gālí
 戛纳	Gā'nà
 嘎子	gǎzi
 泔水	gānshui
@@ -119,7 +119,7 @@
 许褚	xǔchǔ
 阏氏	yānzhī
 幺蛾子	yāo'ézi
-幺麽	yāomó	
+幺麽	yāomó
 一波未平，一波又起	yībō-wèipíng,yībō-yòuqǐ
 一不做，二不休	yī/bù/zuò,èr/bù/xiū
 一倡百和	yīchàng-bǎihé
