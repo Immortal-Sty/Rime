@@ -36,11 +36,16 @@ patch:
 
   style/preedit_type: preview # 嵌入首选项内容(字词)。有4个选项可设：input 嵌入输入码 | composition 嵌入编码 | preview 嵌入首选项 | preview_all 嵌入全部内容
   #style/layout/margin_y : -1 # 启用后可隐藏候选框(盲打)，建议配合上面的嵌入首选项，一起使用
+
+
   style/inline_preedit: true # 嵌入编码模式，默认是true开启，若想关闭，取消注释即可（删除前面的#号）
 
   # 去掉圆角 新小狼毫（Win）
   #style/layout/corner_radius: 0 #候选圆角
   #style/layout/round_corner: 0 #高亮圆角
+
+  # 竖排候选框，自动倒序
+  #style/vertical_auto_reverse: false # 默认是会自动倒序的，若想关闭，把该行行首的#删掉
 
   # #候选字体
   #style/font_face: "Consolas, Segoe UI Emoji, Noto Color Emoji, LXGW WenKai GB Screen R, SimSun, SimSun-ExtB, SimSun-ExtG, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16"
