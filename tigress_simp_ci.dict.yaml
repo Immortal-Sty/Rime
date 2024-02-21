@@ -1,5 +1,5 @@
 name: tigress_simp_ci
-version: "2023.11.28"
+version: "2024.02.10"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -1824,6 +1824,7 @@ encoder:
 毕业后	228	vcx
 不愧是	228	cho
 影响到	228	ody
+葡萄牙	228	lll
 对不对	228	rcr
 实验室	228	wnw
 建筑物	228	brq
@@ -2648,7 +2649,6 @@ encoder:
 净利润	123	wxk
 政治上	123	fky
 不合理	123	cjn
-反社会	123	xfj
 巨大的	123	nmu
 听得到	123	dwy
 李清照	123	eko
@@ -2815,9 +2815,11 @@ encoder:
 梁羽生	117	kzl
 成员国	117	ndr
 热烘烘	117	ucc
+性解放	117	hxl
 急救站	117	xfi
 快节奏	117	hla
 持力层	117	usc
+北伐军	117	ajw
 成都市	117	nqz
 转折点	117	yuy
 音乐家	117	xbw
@@ -2888,6 +2890,8 @@ encoder:
 骚断腿	117	npv
 回旋镖	117	rlz
 智能推	117	oku
+龙腾传	117	tvj
+层楼哥	117	cez
 地下水	117	gfk
 运动鞋	117	bbt
 适合于	117	ajf
@@ -2982,7 +2986,6 @@ encoder:
 吉普车	111	ghy
 罗斯福	111	yzf
 单元格	111	hme
-茉莉花	111	lll
 习惯于	111	zhf
 六年级	111	aei
 大方向	111	mlt
@@ -3683,7 +3686,6 @@ encoder:
 象牙塔	96	wlg
 山海经	96	vki
 美少年	96	gye
-心底里	96	hxd
 挑战者	96	uyq
 这样一	96	vef
 就是这	96	gov
@@ -3739,7 +3741,6 @@ encoder:
 骨骼肌	96	ffv
 充满了	96	bkr
 老母亲	96	qki
-可能是	96	zko
 淘汰赛	96	kkw
 安徒生	96	wwl
 饮用水	96	qtk

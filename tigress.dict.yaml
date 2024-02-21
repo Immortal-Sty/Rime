@@ -1,5 +1,5 @@
 name: tigress
-version: "2023.11.28"
+version: "2024.02.10"
 sort: by_weight
 columns:
   - text
@@ -3851,8 +3851,7 @@ import_tables:
 歉	7170	hbce
 沾	7165	kyd
 沾	397	kydk
-妮	7154	bcv
-妮	397	bcvb
+妮	7154	bcvb
 筋	7149	rvs
 筋	397	rvsl
 殷	7147	zrs
@@ -6757,7 +6756,8 @@ import_tables:
 鑫	397	zzzj
 琏	993	nyu
 琏	397	nyuc
-娓	992	bcvm
+娓	992	bcv
+娓	397	bcvm
 杳	992	eor
 犊	992	qna
 犊	397	qnam
@@ -11426,6 +11426,7 @@ import_tables:
 劀	257	itmp
 劃	257	bqfp
 劄	257	rjdp
+劏	257	sqpd
 劘	257	zrpd
 劙	257	bjcp
 劵	257	hhsl
@@ -12242,6 +12243,8 @@ import_tables:
 旂	257	letj
 旐	257	lep
 旐	257	lepw
+旓	257	ley
+旓	257	leyv
 旞	257	lehu
 旴	257	ofn
 旴	257	ofns
@@ -12322,6 +12325,7 @@ import_tables:
 朘	257	vkhh
 朣	257	vid
 朣	257	vidl
+朤	257	vvvv
 朩	257	emm
 朩	256	em
 朳	257	ehb
@@ -13112,6 +13116,7 @@ import_tables:
 眜	257	qfem
 眥	257	svq
 眥	257	svqm
+眰	257	qyi
 睄	257	qyv
 睄	257	qyvy
 睆	257	qwm
@@ -13412,6 +13417,7 @@ import_tables:
 耲	257	atyk
 肏	257	jmj
 肏	257	jmjj
+肶	257	vvvb
 肸	257	vhn
 肸	257	vhns
 胈	257	vnr
@@ -14415,6 +14421,7 @@ import_tables:
 𩾌	257	wxbk
 𪉈	257	svxn
 𪎊	257	ahyt
+𪚥	257	tttt
 𪞝	257	wrus
 𪟝	257	aosl
 𪟧	257	qsqs
@@ -16717,7 +16724,6 @@ import_tables:
 劋	0	dddp
 劌	0	snfp
 劎	0	jddp
-劏	0	sqpd
 劒	0	jddi
 劔	0	jddi
 劕	0	ttop
@@ -19663,8 +19669,6 @@ import_tables:
 旊	0	lerw
 旍	0	lejk
 旑	0	lmzk
-旓	0	ley
-旓	0	leyv
 旔	0	lbu
 旔	0	lbuy
 旕	0	ljwv
@@ -19886,7 +19890,6 @@ import_tables:
 朡	0	vbmh
 朢	0	qvn
 朢	0	qvnw
-朤	0	vvvv
 朥	0	vccs
 朧	0	vtl
 朮	0	eid
@@ -22468,7 +22471,6 @@ import_tables:
 眫	0	qhus
 眮	0	qmf
 眮	0	qmfd
-眰	0	qyi
 眱	0	qmb
 眱	0	qmbg
 眲	0	qqe
@@ -24205,7 +24207,6 @@ import_tables:
 肰	0	vmq
 肳	0	vnes
 肵	0	vtj
-肶	0	vvvb
 肹	0	vhfa
 肻	0	ywvy
 胅	0	vth
@@ -83362,7 +83363,6 @@ import_tables:
 𪚢	0	tcf
 𪚣	0	gcrt
 𪚤	0	tfvn
-𪚥	0	tttt
 𪚦	0	wg
 𪚧	0	wsj
 𪚨	0	ewg
@@ -112682,6 +112682,7 @@ import_tables:
 褏	257	tbfd
 襃	0	tbfe
 裦	0	tbft
+養	122	gqs
 班	397	pnnw
 斑	397	vnnw
 辨	397	pnnx
@@ -113129,7 +113130,6 @@ import_tables:
 辻	255	nucs
 鲂	255	wlfv
 耄	255	qvml
-#牦	255	qvmn
 眊	255	qvmm
 帏	255	rgwj
 怫	255	htfx

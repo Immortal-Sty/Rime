@@ -2,10 +2,11 @@
 #@/db_name	PY_c
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	7
+#@/tick	8
 啊	a	1
 重码率	chong ma lv	1
 的样子	de yang zi	1
+好	hao	2
 很高	hen gao	1
 你好	ni hao	2
 拼音的	pin yin de	1
