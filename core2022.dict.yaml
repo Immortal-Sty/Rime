@@ -1,6 +1,6 @@
 ###表內有的字纔會輸出，可自己添加，格式如下
 name: core2022
-version: "2024.02.10"
+version: "2024.04.08"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -9750,3 +9750,9 @@ use_preset_vocabulary: false
 眰	t
 朤	t
 𪚥	t
+𠂇	t
+黐	t
+亇	t
+熿	t
+熺	t
+斿	t
