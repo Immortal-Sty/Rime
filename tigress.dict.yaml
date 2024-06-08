@@ -1,5 +1,5 @@
 name: tigress
-version: "2024.04.08"
+version: "2024.06.06"
 sort: by_weight
 columns:
   - text
@@ -7193,6 +7193,7 @@ import_tables:
 蹩	808	fhpu
 莓	806	lek
 莓	397	lekm
+胛	805	vsj
 谌	805	szh
 谌	397	szha
 岬	804	vsj
@@ -8157,7 +8158,6 @@ import_tables:
 讴	514	snb
 讴	397	snbi
 砒	513	mvvb
-胛	513	vsj
 呔	512	dmi
 呔	397	dmid
 薏	512	lxh
@@ -11393,6 +11393,8 @@ import_tables:
 冫	256	wb
 冮	257	wug
 冴	257	wly
+冸	257	whu
+冸	257	whus
 凊	257	wavy
 凓	257	wve
 凓	257	wvem
@@ -16619,8 +16621,6 @@ import_tables:
 冩	0	wpnc
 冪	0	wlor
 冭	0	mwb
-冸	0	whu
-冸	0	whus
 冹	0	wnri
 冺	0	wdm
 冾	0	wjd
@@ -113120,6 +113120,7 @@ import_tables:
 雒	255	suig
 胲	255	vkhy
 胛	255	vsjy
+岬	255	vsjs
 羖	255	grsy
 蛭	255	cyic
 饤	255	qads
