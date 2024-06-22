@@ -261,7 +261,7 @@ patch:
     #shadow_color: 0x20000000
     text_color: 0x1a1a1a
   "style/capture_type": none
-  "style/color_scheme": blackpink
+  "style/color_scheme": pink
   "style/color_scheme_dark": blackpink
   "style/color_font": true
   "style/font_face": "JetBrains Mono, LXGW WenKai GB Screen"
@@ -281,13 +281,20 @@ patch:
   "style/layout/margin_y": 5
   "style/layout/round_corner": 5
   # 特殊程序默认英文
-  "app_options/mmc.exe":
-    ascii_mode: true
-  "app_options/photoshop.exe":
-    ascii_mode: true
-  "app_options/quicker.exe":
-    ascii_mode: true
-  "app_options/winword.exe":
-    ascii_mode: true
-  "app_options/keepass.exe":
-    ascii_mode: true
+  app_options:
+    mmc.exe:
+        ascii_mode: true
+    photoshop.exe:
+        ascii_mode: true
+    quicker.exe:
+        ascii_mode: true
+    winword.exe:
+        ascii_mode: true
+    keepass.exe:
+        ascii_mode: true
+    obsidian.exe:
+        vim_mode: true
+    kate.exe:
+        vim_mode: true
+    sublime_text.exe:
+        vim_mode: true

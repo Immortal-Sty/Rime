@@ -7,7 +7,7 @@ version: "2.0"
 sort: by_weight
 import_tables:
   - tiger
-  
+
 columns:
   - text
   - code
@@ -200,3 +200,6 @@ $	k	0
 #----------注音----------#
 
 #----------其他分区----------#
+
+邵天烨	pfc
+邵天烨	pfcj
