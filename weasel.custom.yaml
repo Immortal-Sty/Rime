@@ -292,9 +292,3 @@ patch:
         ascii_mode: true
     keepass.exe:
         ascii_mode: true
-    obsidian.exe:
-        vim_mode: true
-    kate.exe:
-        vim_mode: true
-    sublime_text.exe:
-        vim_mode: true
