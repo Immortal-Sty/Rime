@@ -9,7 +9,7 @@ import_tables:
   - tigress
   - tigress_ci
   - tigress_simp_ci  # 在-前面加上#号，即可关闭简词
-  
+
 columns:
   - text
   - code
@@ -203,3 +203,6 @@ _ ;z
 #----------注音----------#
 
 #----------其他分区----------#
+
+邵天烨	pfc
+邵天烨	pfcj
