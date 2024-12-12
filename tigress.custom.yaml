@@ -85,4 +85,6 @@ patch:
     - { accept: space, send: Escape, when: composing }
 
   # 给虎码加一个图标
-  "schema/icon": tiger_light.ico
+  schema:
+    icon: zhh2_256X256.ico
+    ascii_icon: A_256X256.ico

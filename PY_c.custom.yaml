@@ -11,6 +11,11 @@ patch:
     # 切换至虎码
     - { when: always, accept: Control+Shift+F1, select: tiger }
 
+  # 给小鹤加一个图标
+  schema:
+    icon: eh3_256X256.ico
+    ascii_icon: A_256X256.ico
+
   # 自然码双拼
   speller/algebra:
     - erase/^xx$/
