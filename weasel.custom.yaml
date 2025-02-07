@@ -264,12 +264,12 @@ patch:
   "style/color_scheme": pink
   "style/color_scheme_dark": blackpink
   "style/color_font": true
-  "style/font_face": "JetBrains Mono, LXGW WenKai GB Screen"
+  "style/font_face": "MonaspiceNe NFM, LXGW Bright"
   "style/font_point": 13
-  "style/comment_font_face": "JetBrains Mono, LXGW WenKai GB Screen"
+  "style/comment_font_face": "MonaspiceNe NFM, LXGW Bright"
   "style/comment_font_point": 13
   # --- 不知道干啥滴 ---
-  "style/label_font_face": "JetBrains Mono, LXGW WenKai GB Screen"
+  "style/label_font_face": "MonaspiceNe NFM, LXGW Bright"
   "style/label_font_point": 13
   "style/label_format": "%s."
   # ------------------
