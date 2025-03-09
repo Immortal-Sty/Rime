@@ -264,12 +264,12 @@ patch:
   "style/color_scheme": pink
   "style/color_scheme_dark": blackpink
   "style/color_font": true
-  "style/font_face": "MonaspiceNe NFM, LXGW Bright"
+  "style/font_face": "Monaspace Xenon Frozen, 霞鹜文楷等宽 屏幕阅读版"
   "style/font_point": 13
-  "style/comment_font_face": "MonaspiceNe NFM, LXGW Bright"
+  "style/comment_font_face": "Monaspace Xenon Frozen, 霞鹜文楷等宽 屏幕阅读版"
   "style/comment_font_point": 13
   # --- 不知道干啥滴 ---
-  "style/label_font_face": "MonaspiceNe NFM, LXGW Bright"
+  "style/label_font_face": "Monaspace Xenon Frozen, 霞鹜文楷等宽 屏幕阅读版"
   "style/label_font_point": 13
   "style/label_format": "%s."
   # ------------------
